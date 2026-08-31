@@ -1,8 +1,14 @@
 venv/
 .venv/
+
 .env
+
 __pycache__/
 *.pyc
+
 .chroma/
-faiss_index/
+vectorstore/faiss_index/
+
 .vscode/
+
+data/documents/
