@@ -41,7 +41,7 @@ DEFAULT_SETTINGS = {
     "model": "gemini-3.6-flash",
     "temperature": 0.0,
     "top_k": 3,
-    "distance_threshold": 1.40,
+    "distance_threshold": 2.00,
     "chat_history_enabled": True,
     "sentiment_enabled": True,
     "intent_enabled": True,

@@ -422,7 +422,7 @@ def retrieve_context(
     chunks: list[dict],
     index,
     top_k: int = 3,
-    distance_threshold: float = 1.40
+    distance_threshold: float = 2.00
 ) -> list[dict]:
     """
     Retrieve the most relevant document chunks using FAISS.
